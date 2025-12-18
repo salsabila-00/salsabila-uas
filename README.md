@@ -6,7 +6,7 @@ MENGKATEGORIKAN KELAS LERENG
 
 Screenshot Pivot Table Kelas Lereng
 
-![Screenshot Pivot Table](Screenshot%202025-12-18%20225455.png)
+![Screenshot Pivot Table](Screenshot%202025-12-18%20232433.png)
 
 
 
